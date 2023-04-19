@@ -6,6 +6,7 @@ import mysql.connector as my
 #database
 #username
 #wachtwoord
+#Hallo
 
 dbConnection = my.connect(
     host='localhost',
