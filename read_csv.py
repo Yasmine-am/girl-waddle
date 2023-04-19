@@ -9,3 +9,5 @@ print(df["Name"])
 
 for rij in df.iterrows():
     print(rij)
+
+    # Yasmine en Richelle zijn cool & moe.
